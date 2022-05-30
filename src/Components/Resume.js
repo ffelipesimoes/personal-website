@@ -15,6 +15,7 @@ export const Resume = () => {
               <div className="title">
                 <p className="bold">Felipe Simões</p>
                 <p className="regular">Web3 Developer</p>
+                <p className="regular">0xa93588BB4ccFeDB271aEd3790153144BAf1c0078</p>
               </div>
 
               <div className="resume_item resume_about">

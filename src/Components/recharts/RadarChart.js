@@ -66,10 +66,10 @@ export default class RadarChartRecharts extends PureComponent {
     return (
       
       <RadarChart
-        cx={140}
+        cx={190}
         cy={130}
         outerRadius={80}
-        width={400}
+        width={430}
         height={220}
         data={data}
       >
