@@ -64,6 +64,7 @@ export default class RadarChartRecharts extends PureComponent {
 
   render() {
     return (
+      
       <RadarChart
         cx={140}
         cy={130}
@@ -72,7 +73,7 @@ export default class RadarChartRecharts extends PureComponent {
         height={220}
         data={data}
       >
-        <PolarGrid gridType="circle" />
+        <PolarGrid gridType="circle"  />
         <PolarAngleAxis dataKey="subject" />
         <PolarRadiusAxis angle={55} domain={[0, 100]} />
         <Radar
