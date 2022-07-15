@@ -1,3 +1,5 @@
+![!Website preview](./src//assets/Website-preview.png)
+
 # 👋🕶️ [About me](https://github.com/ffelipesimoes)
 
 🐍 Felipe Simões. </br>
