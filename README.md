@@ -68,11 +68,3 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-black?style=for-the-badge&logo=obsstudio)
 ![Audacity](https://img.shields.io/badge/-Audacity-black?style=for-the-badge&logo=audacity)
 
-### 🧿 Git Stats
-
-Don't notice, i've way more commits on companies private git.
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ffelipesimoes&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipesimoes&hide=jupyter%20notebook&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ffelipesimoes.ffelipesimoes)
